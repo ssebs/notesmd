@@ -9,7 +9,7 @@ Structured Note Editor, using Markdown
 - tbd
 
 ## To do
-- [ ] Create basic editing wireframes
+- [x] Create basic editing wireframes
 - [ ] Start Electron project
 - [ ] Add MD editing features
 - [ ] Create build / release process 
