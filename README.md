@@ -16,7 +16,9 @@ Structured Note Editor, using Markdown
   - [ ] ^ Using CI
 
 ## Screenshots
-- tbd
+Screenshot of wireframe:
+![Wireframe](./wireframes/Edit.png)
+
 
 ## LICENSE
 [MIT](./LICENCE)
